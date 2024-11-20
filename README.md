@@ -11,6 +11,7 @@ Python || PowerBI || SQL || Excel || Google Sheets || Machine Learning || Deep L
 - 🌱 In my free time, I’m currently learning for the AWS Cloud Practitioner Certification exam, and occasionally attend and participate in hackathons
 - 💬 Ask me about PowerBI, SQL
 - 📫 How to reach me: khululiwehlongwane30@gmail.com
+- 📄 Know about my experiences: 
 
 🤝 Let’s Connect!
    
