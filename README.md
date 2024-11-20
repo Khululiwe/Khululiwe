@@ -3,11 +3,11 @@
 <h2 align="center">Aspiring Data Scientist || Data Analyst || ML Engineer</h2>
 <h3 align="center">Python || PowerBI || SQL || Excel || Google Sheets || Machine Learning || Deep Learning || NLP || Data Science Intern @Telkom</h3>
 
-<h4>✨ I’m thrilled to have you here! I’m a passionate aspiring Data Scientist who thrives on solving problems and uncovering insights from data.
-
+<p>✨ I’m thrilled to have you here! I’m a passionate aspiring Data Scientist who thrives on solving problems and uncovering insights from data.
+<br/>
 🎓 I recently completed the learning part of a 12-month Data Science Certificate at ExploreAI Academy, where I gained hands-on experience in a variety of data science techniques and tools. I am currently doing a 4-months internship at Telkom(Consumer Group), as part of the ExploreAI Academy programme so that I can apply what I have learnt throughout the year towards solving real-life problems. My journey involves everything from foundational data processing to building machine learning models, and I’m excited to share my work with you!✨
 
-</h4>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khululiwe&label=Profile%20views&color=0e75b6&style=flat" alt="Khululiwe" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Khululiwe&theme=onedark" alt="GowthamRaj24" /></a> </p>
