@@ -1,17 +1,13 @@
-# Hi there 👋, I'm Khululiwe Hlongwane, welcome to my profile!
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi there 👋, I'm Khululiwe Hlongwane </h1>
+<h2 align="center">Aspiring Data Scientist || Data Analyst || ML Engineer</h2>
+<h3 align="center">Python || PowerBI || SQL || Excel || Google Sheets || Machine Learning || Deep Learning || NLP || Data Science Intern @Telkom</h3>
 
-          Aspiring Data Scientist || Data Analyst || ML Engineer
-
-Python || PowerBI || SQL || Excel || Google Sheets || Machine Learning || Deep Learning || NLP || Data Science Intern @Telkom
-
-✨ I’m thrilled to have you here! I’m a passionate aspiring Data Scientist who thrives on solving problems and uncovering insights from data.
+<h4>✨ I’m thrilled to have you here! I’m a passionate aspiring Data Scientist who thrives on solving problems and uncovering insights from data.
 
 🎓 I recently completed the learning part of a 12-month Data Science Certificate at ExploreAI Academy, where I gained hands-on experience in a variety of data science techniques and tools. I am currently doing a 4-months internship at Telkom(Consumer Group), as part of the ExploreAI Academy programme so that I can apply what I have learnt throughout the year towards solving real-life problems. My journey involves everything from foundational data processing to building machine learning models, and I’m excited to share my work with you!✨
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Khululiwe Hlongwane </h1>
-<h2 align="center">Aspiring Data Scientist || Data Analyst || ML Engineer</h2>
-<h3 align="center">Python || PowerBI || SQL || Excel || Google Sheets || Machine Learning || Deep Learning || NLP || Data Science Intern @Telkom</h3>
+</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khululiwe&label=Profile%20views&color=0e75b6&style=flat" alt="Khululiwe" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Khululiwe&theme=onedark" alt="GowthamRaj24" /></a> </p>
@@ -21,12 +17,12 @@ Python || PowerBI || SQL || Excel || Google Sheets || Machine Learning || Deep L
 - 📫 How to reach me **khululiwehlongwane30@gmail.com**
 - 📄 Know about my experiences **https://www.datascienceportfol.io/khululiwe**
 
+<h3 align="left">🤝 Let’s Connect!:</h3>
+
 <div> <a href="https://www.linkedin.com/in/khululiwe-hlongwane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Khululiwe" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:khululiwehlongwane30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">🤝 Let’s Connect!:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khululiwe-hlongwane" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="www.linkedin.com/in/khululiwe-hlongwane" height="30" width="40" /></a></p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
