@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Khululiwe Hlongwane, welcome to my profile!
+# Hi there 👋, I'm Khululiwe Hlongwane, welcome to my profile!
           Aspiring Data Scientist || Data Analyst || ML Engineer
 Python || PowerBI || SQL || Excel || Google Sheets || Machine Learning || Deep Learning || NLP || Data Science Intern @Telkom
 
