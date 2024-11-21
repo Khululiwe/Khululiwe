@@ -22,6 +22,7 @@
 <div> <a href="https://www.linkedin.com/in/khululiwe-hlongwane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Khululiwe" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:khululiwehlongwane30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.kaggle.com/khululiwehlongwane" target="_blank"><img src="https://img.shields.io/badge/kaggle-blue" target="_blank"></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,7 +49,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 <div align="center">
-<a href="https://github.com/GowthamRaj24">
+<a href="https://github.com/Khululiwe">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khululiwe&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khululiwe&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khululiwe&theme=2077" height="180em" />
