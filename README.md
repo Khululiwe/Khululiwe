@@ -13,7 +13,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Khululiwe&theme=onedark" alt="GowthamRaj24" /></a> </p>
 
 - 🔭 I’m currently working on **a PowerBI Interactive dashboard (Telkom) and my personal project(ExploreAI Academy).**
-- 🌱 In my free time, I’m currently learning for the **AWS Cloud Practitioner Certification exam**, and occasionally attend and participate in **hackathons**
+- 🌱 In my free time, I’m currently preparing for the **AWS Cloud Practitioner Certification exam**, and occasionally attend and participate in **hackathons**
 - 📫 How to reach me **khululiwehlongwane30@gmail.com**
 - 📄 Know about my experiences **https://www.datascienceportfol.io/khululiwe**
 
