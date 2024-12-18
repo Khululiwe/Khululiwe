@@ -18,7 +18,7 @@
 - 📫 How to reach me **khululiwehlongwane30@gmail.com**
 - 📄 Want to know about my experiences?, click here: **https://www.datascienceportfol.io/khululiwe**
 
-<h3 align="left">🤝 Let’s Connect!:</h3> <div><a href="https://zindi.africa/users/Khully" target="_blank"><img src="https://img.shields.io/badge/ZINDI-%20%2300004d?labelColor=%20%2300004d&color=%23ffffff" target="_blank"></a></div>
+<h3 align="left">🤝 Let’s Connect!: <div><a href="https://zindi.africa/users/Khully" target="_blank"><img src="https://img.shields.io/badge/ZINDI-%20%2300004d?labelColor=%20%2300004d&color=%23ffffff" target="_blank"></a></div></h3>
 
 <div> <a href="https://www.linkedin.com/in/khululiwe-hlongwane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Khululiwe" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
