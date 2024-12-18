@@ -13,16 +13,16 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Khululiwe&theme=onedark" alt="GowthamRaj24" /></a> </p>
 
 - 🔭 I’m currently working on **a PowerBI Interactive dashboard (Telkom) and my personal project(ExploreAI Academy).**
+- - 👯 I’m looking to collaborate on **Inundata: Mapping Floods in South Africa**
 - 🌱 In my free time, I’m currently preparing for the **AWS Cloud Practitioner Certification exam**, and occasionally attend and participate in **hackathons**
 - 📫 How to reach me **khululiwehlongwane30@gmail.com**
 - 📄 Want to know about my experiences?, click here: **https://www.datascienceportfol.io/khululiwe**
 
-<h3 align="left">🤝 Let’s Connect!:</h3>
+<h3 align="left">🤝 Let’s Connect!:</h3> <div><a href="https://zindi.africa/users/Khully" target="_blank"><img src="https://img.shields.io/badge/ZINDI-%20%2300004d?labelColor=%20%2300004d&color=%23ffffff" target="_blank"></a></div>
 
 <div> <a href="https://www.linkedin.com/in/khululiwe-hlongwane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Khululiwe" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:khululiwehlongwane30@gmail.com"target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://zindi.africa/users/Khully" target="_blank"><img src="https://img.shields.io/badge/ZINDI-%20%2300004d?labelColor=%20%2300004d&color=%23ffffff" target="_blank"></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
