@@ -1,20 +1,19 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi there 👋, I'm Khululiwe Hlongwane </h1>
 <h2 align="center">Aspiring Data Scientist || Data Analyst || ML Engineer</h2>
-<h3 align="center">Python || PowerBI || SQL || Excel || Google Sheets || Machine Learning || Deep Learning || NLP || Data Science Intern @Telkom</h3>
+<h3 align="center">Python || PowerBI || SQL || Excel || Google Sheets || Machine Learning || Deep Learning || NLP</h3>
 
-<p>✨ I’m thrilled to have you here! I’m a passionate aspiring Data Scientist who thrives on solving problems and uncovering insights from data.
+<p>✨ I’m thrilled to have you here! I’m a passionate Data Scientist who thrives on solving problems and uncovering insights from data.
 <br/>
-🎓 I recently completed the learning part of a 12-month Data Science Certificate at ExploreAI Academy, where I gained hands-on experience in a variety of data science techniques and tools. I am currently doing a 4-months internship at Telkom(Consumer Group), as part of the ExploreAI Academy programme so that I can apply what I have learnt throughout the year towards solving real-life problems. My journey involves everything from foundational data processing to building machine learning models, and I’m excited to share my work with you!✨
+🎓 I have completed a 12-month Data Science program at ExploreAI Academy, where I gained hands-on experience in a variety of data science techniques and tools. I recently completed a 4-months internship at Telkom(Consumer Group), as part of the ExploreAI Academy programme where I was able to apply what I have learnt throughout the program towards solving real-life business problems. My journey involves everything from foundational data processing to building machine learning models, and I’m excited to share my work with you!✨
 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khululiwe&label=Profile%20views&color=0e75b6&style=flat" alt="Khululiwe" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Khululiwe&theme=onedark" alt="GowthamRaj24" /></a> </p>
 
-- 🔭 I’m currently working on **a PowerBI Interactive dashboard (Telkom) and my personal project(ExploreAI Academy).**
-- - 👯 I’m looking to collaborate on **Inundata: Mapping Floods in South Africa**
-- 🌱 In my free time, I’m currently preparing for the **AWS Cloud Practitioner Certification exam**, and occasionally attend and participate in **hackathons**
+- 🔭 I’m currently preparing for the **AWS Cloud Practitioner Certification exam**
+- 🌱 In my free time, I occasionally attend and participate in **hackathons**
 - 📫 How to reach me **khululiwehlongwane30@gmail.com**
 - 📄 Want to know about my experiences?, click here: **https://www.datascienceportfol.io/khululiwe**
 
